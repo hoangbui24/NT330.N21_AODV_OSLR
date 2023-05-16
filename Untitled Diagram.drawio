@@ -1,4 +1,4 @@
-<mxfile modified="2023-05-16T10:50:34.770Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1bl4MqRf5mCTal8VPAQv" version="21.3.2" type="github">
+<mxfile modified="2023-05-16T13:01:35.608Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WN-fNobDxrCa3hWXBiN-" version="21.3.2" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="3500" dy="1750" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1474,6 +1474,15 @@
         </mxCell>
         <mxCell id="ABNjyrSuYEHNxfV3t2KI-439" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;Bai tap AODV&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Architects Daughter;fontColor=#095C86;" parent="1" vertex="1">
           <mxGeometry x="30" y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPvwvWY3CN18PmnvBlen-2" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;dashed=1;dashPattern=1 4;fillColor=#af45ed;strokeColor=#af45ed;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="60" width="10" height="2350" as="geometry" />
+        </mxCell>
+        <mxCell id="RPvwvWY3CN18PmnvBlen-5" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;dashed=1;dashPattern=1 4;strokeColor=#AF45ED;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1700" width="2230" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RPvwvWY3CN18PmnvBlen-6" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;dashed=1;dashPattern=1 4;strokeColor=#af45ed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="850" width="2230" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
